@@ -1,6 +1,6 @@
 ## Hi, I'm Kartikey 👋
  
-**Data scientist at Deloitte. Founder-in-the-making. Builder of systems that build systems.**
+**Data scientist 2 at Deloitte. Founder-in-the-making. Builder of systems that build systems.**
 I turn messy data into decisions by day, and build Usovo and a better way of solving problems by night.
 
 ### 🔭 Currently Working On
@@ -19,7 +19,7 @@ I turn messy data into decisions by day, and build Usovo and a better way of sol
 ### 🤔 Looking for Help With
 - Getting Usovo in front of its first real users
 - Connecting with founder communities and builders
-- 
+  
 ### 💬 Ask Me About
 Data science, AI startup funding and pivots, and balancing a day job with a side venture.
  
