@@ -15,7 +15,7 @@ I turn messy data into decisions by day, and build Usovo and a better way of sol
 - AI and data projects
 - Early-stage startup ideas
 - Agent first systems that involves building something from zero
-- 
+  
 ### 🤔 Looking for Help With
 - Getting Usovo in front of its first real users
 - Connecting with founder communities and builders
